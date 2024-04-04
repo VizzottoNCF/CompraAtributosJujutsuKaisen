@@ -1,0 +1,13 @@
+{
+  "name": "compra-atributos-jujutsu",
+  "version": "0.0.0",
+  "description": "CompraAtributosJujutsu",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  },
+  "devDependencies": {
+    "eslint": "^8.57.0"
+  },
+  "eslintConfig": {}
+}
